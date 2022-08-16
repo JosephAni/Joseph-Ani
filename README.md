@@ -1,3 +1,4 @@
+https://api.daily.dev/devcards/c7a834d52dc54e0a8347cd930edaa7c4.png?r=8q2
 <h1 align="center">Hi 👋, I'm Joseph Ani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
